@@ -3,7 +3,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Main {
+class Kconcatenate {
     public static void main(String args[]){
         Scanner scn = new Scanner(System.in);
         int N = scn.nextInt();
